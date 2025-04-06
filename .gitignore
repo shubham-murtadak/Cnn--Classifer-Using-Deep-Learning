@@ -175,3 +175,6 @@ cython_debug/
 
 
 artifacts/
+
+ecr_registry.txt 
+inputImage.jpg
