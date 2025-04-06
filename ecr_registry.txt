@@ -1,0 +1,1 @@
+904233133974.dkr.ecr.eu-north-1.amazonaws.com/cnnclassifier
